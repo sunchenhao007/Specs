@@ -59,7 +59,7 @@
     "Benjamin Adolphi": "b.adolphi@gmail.com"
   },
   "source": {
-    "http": "http://172.21.101.55/artifactory/pod-public/MobileVLCKit/MobileVLCKit-3.3.17.xz",
+    "http": "http://172.21.101.55/artifactory/pod-public/MobileVLCKit/MobileVLCKit-3.3.17.tar.xz",
     "sha256": "fb2d38633fec6eb2ecbad56dc99ed765f3b416708fe48c50ca6a79f7a7012ac1"
   },
   "ios": {
