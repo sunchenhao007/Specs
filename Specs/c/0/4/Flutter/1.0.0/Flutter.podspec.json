@@ -12,7 +12,7 @@
     "Flutter Dev Team": "flutter-dev@googlegroups.com"
   },
   "source": {
-    "http": "http://172.21.101.55:80/artifactory/pod-public/Flutter/Flutter-1.0.0.zip"
+    "http": "http://172.21.101.55/artifactory/pod-public/Flutter/Flutter-1.0.0.zip"
   },
   "documentation_url": "https://flutter.dev/docs",
   "platforms": {
